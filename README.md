@@ -12,4 +12,12 @@ Research associated:
 * Diverse dataset of the ileum from mice and rat 
 * Annotation metric extraction automated
 
-More to come soon...
+## TODO - WIP 
+* # Refactoring 
+* Classes
+* OOP
+* Modularizing
+* Intercommunication between modules
+* Dataset eval
+
+More coming soon...
