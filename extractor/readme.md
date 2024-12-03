@@ -8,26 +8,13 @@ This is a Python script that reads CSV and image files, merges the CSV data into
 * pandas
 * openpyxl
 
-## Getting started
-
-To use this script, first clone the repository to a local directory. You can do this by running the following command in your terminal:
-
-```
-git clone https://github.com/<username>/csv_image_workbook.git
-```
-
-After cloning the repository, navigate to the `csv_image_workbook` directory and run the following command to install the required dependencies:
-
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 
 To use this script, run the following command in your terminal:
 
 ```
-python main.py
+python extract.py
 ```
 
 The script reads CSV and image files from the `data` directory, merges the CSV data into a workbook, and inserts images from the image files. The resulting workbook is saved as `merged_data.xlsx` in the `output` directory.
